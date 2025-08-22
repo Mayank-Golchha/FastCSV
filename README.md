@@ -1,6 +1,7 @@
 # FastCSV
 
-It is a very fast CSV parser written in C++ with support for random row access due to which it can read any row in almost constant time
+It is a very fast CSV parser written in C++ with support for random row access due to which it can read
+any row in almost constant time
 
 ## Features
 - Read and write CSV rows efficiently
